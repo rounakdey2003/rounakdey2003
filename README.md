@@ -38,6 +38,10 @@ I bridge the gap between **academic whitepapers** and **production-ready code**.
 | **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
 | **Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakdey2003&layout=compact&theme=tokyonight" />
+</p>
+
 </div>
 
 ---
@@ -61,17 +65,13 @@ I bridge the gap between **academic whitepapers** and **production-ready code**.
 
 ---
 
-##  Education & Growth
+##  Education
 - **M.Tech in AI** | Jain University, Bangalore (2025 - 2027)
 - **B.Tech in CSE** | University of Engineering & Management (2021 - 2025)
 
 ---
 
-##  My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakdey2003&layout=compact&theme=tokyonight" />
-</p>
+##  My Contact
 
 <div align="center">
   <a href="https://linkedin.com/in/rounakdey2003">
