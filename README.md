@@ -60,7 +60,7 @@ I care deeply about:
 ## Selected Projects (Research-Grade)
 
 <details>
-<summary><strong>🧠 Brain–Computer Interface (BCI)</strong></summary>
+<summary><strong>Brain–Computer Interface (BCI)</strong></summary>
 
 - Motor imagery EEG analysis + real-time movement detection  
 - Brain activity heatmaps & signal exploration  
@@ -106,16 +106,15 @@ I care deeply about:
 - **M.Tech – Artificial Intelligence** (2025–2027)  
   Jain University, Bangalore  
 
-- **B.Tech – Computer Science & Engineering**  
-  University of Engineering & Management  
-  **CGPA:** 8.50 / 10  
+- **B.Tech – Computer Science & Engineering** (2021-2025) 
+  University of Engineering & Management    
 
 ---
 
 ## Technical Stack
 
 ```text
-Languages      : Python, JavaScript, Java, C/C++
-AI / Data      : NumPy, Pandas, NLP, Streamlit, OpenCV
+Languages      : Python, TypeScript, Java, C/C++
+AI / Data      : NumPy, Pandas, NLP, Streamlit, OpenCV, Plotly
 Systems & Web  : Node.js, Express, REST APIs
 Infra & Tools  : Linux, Git
