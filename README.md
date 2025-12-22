@@ -68,10 +68,6 @@ I bridge the gap between **academic whitepapers** and **production-ready code**.
 ---
 
 ##  My GitHub Stats
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rounakdey2003&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rounakdey2003&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakdey2003&layout=compact&theme=tokyonight" />
