@@ -1,60 +1,134 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=JetBrains+Mono&
+    size=28&
+    pause=1200&
+    color=0A66C2&
+    center=true&
+    vCenter=true&
+    width=800&
+    lines=Rounak+Dey;
+    Quantum+Computing+%7C+Machine+Learning+%7C+Systems;
+    Research-Driven+Engineering"
+  />
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Rounak+Dey;Quantum+Computing+Researcher;Machine+Learning+Engineer;Systems+and+Full-Stack+Builder" />
+  <strong>Research-Oriented Engineer</strong> focused on mathematically grounded computation,  
+  algorithmic rigor, and production-quality systems.
 </p>
 
 ---
 
-### About
+## Research & Technical Interests
 
-I work on **theoretical and applied computing problems** with an emphasis on  
-**quantum algorithms, machine learning systems, and clean software architecture**.
+My work sits at the intersection of **theoretical foundations** and **engineering execution**.  
+I am particularly interested in problems where **formal models meet real systems**.
 
-My interests lie where **mathematics meets implementation**—bridging research-grade ideas with production-quality code.
+### Primary Research Directions
 
----
+- **Quantum Computing**
+  - Quantum algorithms and circuit models
+  - Error correction, fault tolerance, and noise mitigation
+  - Quantum cryptography and information theory
+  - Classical simulation of quantum systems
 
-### Research & Technical Focus
+- **Machine Learning**
+  - Neural network theory and optimization
+  - Deep learning architectures (CNNs, RNNs, Transformers)
+  - Representation learning and dimensionality reduction
+  - Statistical learning foundations
 
-- Quantum computation, algorithms, and cryptography  
-- Machine learning (CNNs, RNNs, representation learning)  
-- Numerical methods, optimization, and systems design  
-- End-to-end engineering: from theory → implementation → deployment
-
----
-
-### Tools & Languages
-
-**Python · C/C++ · Java · Kotlin · JavaScript**  
-PyTorch · TensorFlow · NumPy · OpenCV · Linux · Git
-
----
-
-### Philosophy
-
-> *Elegance is correctness under constraint.*
-
-I value systems that are **provable, minimal, and resilient**—in theory and in practice.
+- **Systems & Full-Stack Engineering**
+  - Scalable backend architectures
+  - Performance-critical applications
+  - Clean API design and system decomposition
+  - End-to-end application delivery with engineering discipline
 
 ---
 
-### Activity
+## Academic & Engineering Philosophy
+
+> *Rigor before scale. Clarity before cleverness.*
+
+I value:
+- Mathematical correctness over heuristics  
+- Explicit assumptions over implicit magic  
+- Systems that remain understandable **years later**
+
+I aim to write code and research artifacts that are:
+- Reproducible  
+- Auditable  
+- Extensible  
+
+---
+
+## Technical Stack
+
+**Languages**  
+Python, C/C++, Java, Kotlin, JavaScript
+
+**Scientific & ML Tooling**  
+NumPy, SciPy, TensorFlow, PyTorch, OpenCV
+
+**Systems & Infrastructure**  
+Linux, Git, REST APIs, Client–Server Architectures
+
+---
+
+## GitHub Activity (Tasteful Metrics)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?
+    username=your-username&
+    show_icons=true&
+    hide_title=true&
+    hide_rank=true&
+    count_private=true&
+    theme=default"
+    height="160"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?
+    user=your-username&
+    theme=default"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-trophy.vercel.app/?
+    username=your-username&
+    margin-w=8&
+    row=1&
+    no-frame=true"
+  />
 </p>
 
 ---
 
-### Contact
+## Current Focus
 
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
-Email: your.email@example.com
+- Deepening research-level understanding of **quantum computation**
+- Bridging **ML theory** with real-world model behavior
+- Building systems that embody **academic ideas in executable form**
 
 ---
 
-*Minimal. Rigorous. Research-driven.*
+## Selected Keywords (for Academic Visibility)
+
+`quantum-algorithms` · `error-correction` · `deep-learning` ·  
+`theoretical-ml` · `systems-architecture` · `scientific-computing`
+
+---
+
+## Contact
+
+- GitHub: https://github.com/your-username  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your.email@example.com
+
+---
+
+<p align="center">
+  <sub>Designed for research, built for longevity.</sub>
+</p>
