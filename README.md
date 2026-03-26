@@ -80,7 +80,7 @@ I bridge the gap between **academic whitepapers** and **production-ready code**.
 
 <div align="center">
   <a href="http://dontscroll.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1C1C1C" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1C1C1C" />
   </a>
   <a href="https://linkedin.com/in/rounakdey2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
