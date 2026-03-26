@@ -3,9 +3,9 @@
 #  Rounak Dey
 ### Research-Oriented AI Engineer | M.Tech AI Candidate
 
-| [EXPLORE PORTFOLIO](http://dontscroll.netlify.app/) | [VISIT NXT STUDIO](http://nxtstudio.in) |
-| :---: | :---: |
-| _Showcasing my Skills_ | _Startup Company_ |
+| [NXT STUDIO](http://nxtstudio.in) |
+| :---: |
+| _Startup Company_ |
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Researching+Human-Computer+Interaction;Specializing+in+Applied+ML;Full-Stack+Architect)](https://git.io/typing-svg)
@@ -79,6 +79,9 @@ I bridge the gap between **academic whitepapers** and **production-ready code**.
 ##  My Contact
 
 <div align="center">
+  <a href="http://dontscroll.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20Work-black?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1C1C1C" />
+  </a>
   <a href="https://linkedin.com/in/rounakdey2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
