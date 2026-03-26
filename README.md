@@ -3,7 +3,14 @@
 #  Rounak Dey
 ### Research-Oriented AI Engineer | M.Tech AI Candidate
 
-**[Portfolio](http://dontscroll.netlify.app/) • [NXT Studio](http://nxtstudio.in)(Startup)**
+<p align="center">
+  <a href="http://dontscroll.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Explore%20Work-black?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1C1C1C" />
+  </a>
+  <a href="http://nxtstudio.in">
+    <img src="https://img.shields.io/badge/STARTUP-NXT%20Studio-black?style=for-the-badge&logo=rocket&logoColor=00FF00&labelColor=1C1C1C" />
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Researching+Human-Computer+Interaction;Specializing+in+Applied+ML;Full-Stack+Architect)](https://git.io/typing-svg)
 
